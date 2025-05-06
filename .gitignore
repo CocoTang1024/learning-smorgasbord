@@ -1,0 +1,30 @@
+PyTorch/Note-of-PyTorch-60-Minutes-Tutorial-master/myself/data
+PyTorch/Note-of-PyTorch-60-Minutes-Tutorial-master/others/data
+1.html
+arxiv_raw_2025_04_27.xml
+all.html
+121.html
+resnet18.onnx
+PyTorch/onnx/__pycache__/onnx.cpython-38.pyc
+
+*.mp4
+*.onnx
+*.pt 
+*.exe
+*.zip
+word embedding/data
+*.txt
+PyTorch/Note-of-PyTorch-60-Minutes-Tutorial-master/others/data
+PyTorch/Note-of-PyTorch-60-Minutes-Tutorial-master/myself/data
+*.ckpt
+past/ml/charpter 1/runs
+past/d2l-zh/*
+ocr
+*.ris
+past/d2l-zh/
+*.xlsx
+*.pdf
+*.csv
+*.png
+past/Latex
+*.xml
