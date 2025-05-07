@@ -1,0 +1,1 @@
+当前收录在LNCS里面的内容存在问题就是有的是ECCV的，但是没有明确显示，这里使用代码将N1中包含的ECCV的 这一行T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)转换成 ECCV 2024 这个2024取决于实际内容后面的年份
