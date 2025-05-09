@@ -56,8 +56,8 @@ def insert_doi_lines(ris_text):
     return "\n".join(new_records)
 
 def main():
-    infile = 'arxiv/arxiv_results_multi.ris'
-    outfile = 'arxiv/arxiv_with_doi.ris'
+    infile = R'D:\Programs\Codes\Skill-Up\learning-smorgasbord\arxiv_results_2025_5_7 20：43：04-20：44：00).html.ris'
+    outfile = 'arxiv/arxiv_results_2025_5_7 20：43：04-20：44：00).html_with_doi.ris'
 
     # 读入原始 RIS
     with open(infile, 'r', encoding='utf-8') as f:

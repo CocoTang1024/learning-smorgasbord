@@ -12,7 +12,7 @@ def clean_text(text):
 
 # Read HTML content from file
 # with open("D:\\Users\\tang\\Downloads\\12323.html", "r", encoding="utf-8") as f:
-with open(R"D:\Users\tang\Downloads\Scopus - 文献搜索结果 ｜ 已登录 (2025_5_5 21：49：05).html", "r", encoding="utf-8") as f:
+with open(R"D:\Users\tang\Downloads\Scopus - 文献搜索结果 ｜ 已登录 (2025_5_9 16：50：37).html", "r", encoding="utf-8") as f:
 # with open(R"1.html", "r", encoding="utf-8") as f:
 # with open(R"D:\Users\tang\Downloads\1.html", "r", encoding="utf-8") as f:
     html = f.read()
@@ -81,7 +81,7 @@ for row in rows:
         documents.append(doc)
 
 # Write to RIS file
-with open("arxiv_results_1.ris", "w", encoding="utf-8") as f:
+with open("arxiv_results_2025_5_7 20：44：00).html.ris", "w", encoding="utf-8") as f:
     for doc in documents:
         f.write("TY  - GEN\n")
         
